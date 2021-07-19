@@ -4,4 +4,4 @@ conda_env: conda.yaml
 
 entry_points:
   main:
-    command: "python without_pycaret.py"
+    command: "python -m without_pycaret.py"
